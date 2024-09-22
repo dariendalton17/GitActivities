@@ -127,11 +127,11 @@ The base repository is where you forked, and your repository is where you will d
 At the end of this activity, you should have completed the following:   
 
 *   You have forked the GitActivities Repo.  
-
+I have forked this repo.
 *   You cloned the repo locally to your own machine.  
-
+I have cloned this repo to my machine.
 *   You added and committed a change to your local repo.
-
+This is the change I am adding.
 *   You pushed the local changes to your remote repo.
 
 *   You have opened a PR to the base repository.  Leave this open as part of the week 1/2 requirements.
