@@ -126,7 +126,7 @@ The base repository is where you forked, and your repository is where you will d
 # Completion Criteria #
 At the end of this activity, you should have completed the following:   
 
-*   You have forked the GitActivities Repo.  
+*   You have forked the GitActivities Repo.  (I have forked this activity).
 
 *   You cloned the repo locally to your own machine.  
 
